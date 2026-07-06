@@ -20,8 +20,6 @@
   <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Web Dev" width="500" height="260" style="margin-left: 20px;">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktsec234&label=Profile%20views&color=0e75b6&style=flat" alt="ktsec234" /> </p>
-
 ## 🚀 What I'm Working On
 
 - Building Full Stack Projects
